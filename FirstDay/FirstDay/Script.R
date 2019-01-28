@@ -149,3 +149,12 @@ s %>% is.na() %>% sum()
 # Save fast I need to leave as fast as possible
 
 #Saved, don't know where it stored it though'
+# This is under version control every day I just commit the changes and then I can see what we did per day in this random file
+
+#Word bird, sounds gouda. Sorry for seat stolen.
+# That's fine I don't mind Gwen and Gabi up here
+#yeah, they're both cuties anyways so more power to ya I guess' (Advanced Topics in Getting Babes)
+
+
+
+
